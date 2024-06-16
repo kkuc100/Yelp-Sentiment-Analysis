@@ -1,0 +1,29 @@
+seed: 3407
+pretrained_model: google-bert/bert-base-uncased
+tokenizer_name: google-bert/bert-base-uncased
+device: cuda
+
+datamodule:
+  trainset_path: ../dataset/subset_trainset_pro.parquet
+  testset_path: ../dataset/testset_pro.parquet
+  feature_col: text
+  label_col: label
+  max_length: 512
+  batch_size: 16
+  test_size: 0.2
+  stratify_col: label
+
+model:
+  hidden_size: 768
+  layer_sizes: [256, 128, 64, 32]
+  unfreeze_layers: [-1]
+  num_labels: 3
+  dropout: 0.15
+  activation: LeakyReLU
+
+trainer:
+  num_epochs: 10
+  lr: 1.5e-5
+  weight_decay: 0.01
+  warm_up_step: 0.1
+  early_stop: True
