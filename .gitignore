@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+acl2023/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.venv
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
