@@ -1,0 +1,100 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Chung et~al.(2022)Chung, Hou, Longpre, Zoph, Tay, Fedus, Li, Wang, Dehghani, Brahma, Webson, Gu, Dai, Suzgun, Chen, Chowdhery, Valter, Narang, Mishra, Yu, Zhao, Huang, Dai, Yu, Petrov, Chi, Dean, Devlin, Roberts, Zhou, Le, and Wei}]{chung2022scaling}
+H.~W. Chung, L.~Hou, S.~Longpre, B.~Zoph, Y.~Tay, W.~Fedus, E.~Li, X.~Wang, M.~Dehghani, S.~Brahma, A.~Webson, S.~S. Gu, Z.~Dai, M.~Suzgun, X.~Chen, A.~Chowdhery, D.~Valter, S.~Narang, G.~Mishra, A.~W. Yu, V.~Zhao, Y.~Huang, A.~M. Dai, H.~Yu, S.~Petrov, E.~H. Chi, J.~Dean, J.~Devlin, A.~Roberts, D.~Zhou, Q.~V. Le, and J.~Wei. 2022.
+\newblock \href {https://arxiv.org/abs/2210.11416} {Scaling instruction-finetuned language models}.
+\newblock \emph{ArXiv}, abs/2210.11416.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova}]{devlin2019bert}
+J.~Devlin, M.-W. Chang, K.~Lee, and K.~Toutanova. 2019.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In \emph{Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)}, pages 4171--4186, Minneapolis, Minnesota. Association for Computational Linguistics.
+
+\bibitem[{for Computational~Linguistics(2023)}]{acl2023ethics}
+Association for Computational~Linguistics. 2023.
+\newblock Acl ethics policy.
+\newblock \url{https://www.aclweb.org/anthology/2023.acl-ethics/}.
+\newblock Accessed: 2024-07-27.
+
+\bibitem[{He et~al.(2020)He, Liu, Gao, and Chen}]{he2020deberta}
+P.~He, X.~Liu, J.~Gao, and W.~Chen. 2020.
+\newblock \href {https://arxiv.org/abs/2006.03654} {Deberta: Decoding-enhanced bert with disentangled attention}.
+\newblock \emph{arXiv preprint}, arXiv:2006.03654.
+
+\bibitem[{Hu and Liu(2004)}]{hu2004mining}
+M.~Hu and B.~Liu. 2004.
+\newblock \href {https://doi.org/10.1145/1014052.1014073} {Mining and summarizing customer reviews}.
+\newblock In \emph{Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining}, pages 168--177. ACM.
+
+\bibitem[{{Hugging Face}(2024)}]{huggingface_yelp}
+{Hugging Face}. 2024.
+\newblock \href {https://huggingface.co/datasets/Yelp/yelp_review_full} {Yelp/yelp\_review\_full · datasets at hugging face}.
+\newblock Accessed 13 June 2024.
+
+\bibitem[{Jurafsky and Martin(2020)}]{jurafsky2020speech}
+Daniel Jurafsky and James~H. Martin. 2020.
+\newblock \href {https://web.stanford.edu/~jurafsky/slp3/} {\emph{Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition}}.
+\newblock Prentice Hall.
+
+\bibitem[{Lee and Shin(2014)}]{lee2014impact}
+Joon Lee and Doo-Hyung Shin. 2014.
+\newblock \href {https://doi.org/10.1016/j.ijhm.2013.09.003} {The impact of online consumer reviews on the credibility of a restaurant's reputation}.
+\newblock \emph{International Journal of Hospitality Management}, 36:230--239.
+
+\bibitem[{Liu(2012)}]{liu2012sentiment}
+B.~Liu. 2012.
+\newblock \href {https://doi.org/10.2200/S00416ED1V01Y201204HLT016} {\emph{Sentiment Analysis and Opinion Mining}}, volume~5 of \emph{Synthesis Lectures on Human Language Technologies}.
+\newblock Morgan \& Claypool Publishers.
+
+\bibitem[{Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis, Zettlemoyer, and Stoyanov}]{liu2019roberta}
+Y.~Liu, M.~Ott, N.~Goyal, J.~Du, M.~Joshi, D.~Chen, O.~Levy, M.~Lewis, L.~Zettlemoyer, and V.~Stoyanov. 2019.
+\newblock \href {https://arxiv.org/abs/1907.11692} {Roberta: A robustly optimized bert pretraining approach}.
+\newblock \emph{ArXiv}, abs/1907.11692.
+
+\bibitem[{Luca(2016)}]{luca2016reviews}
+Michael Luca. 2016.
+\newblock \href {https://www.hbs.edu/faculty/Pages/item.aspx?num=49188} {Reviews, reputation, and revenue: The case of yelp.com}.
+\newblock \emph{Harvard Business School Working Paper}.
+
+\bibitem[{Manning and Schütze(1999)}]{manning1999foundations}
+Christopher~D. Manning and Hinrich Schütze. 1999.
+\newblock \href {https://www.cs.stanford.edu/~manning/cs124/lec/embeddings.pdf} {\emph{Foundations of Statistical Natural Language Processing}}.
+\newblock MIT Press.
+
+\bibitem[{Opitz and Maclin(1999)}]{opitz1999popular}
+D.~Opitz and R.~Maclin. 1999.
+\newblock \href {https://doi.org/10.1613/jair.614} {Popular ensemble methods: An empirical study}.
+\newblock \emph{Journal of Artificial Intelligence Research}, 11:169--198.
+
+\bibitem[{Pang and Lee(2004)}]{pang2004sentimental}
+B.~Pang and L.~Lee. 2004.
+\newblock \href {https://doi.org/10.3115/1218955.1218990} {A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts}.
+\newblock In \emph{Proceedings of the ACL}, pages 271--278. ACL.
+
+\bibitem[{Pang et~al.(2002)Pang, Lee, and Vaithyanathan}]{pang2002thumbs}
+B.~Pang, L.~Lee, and S.~Vaithyanathan. 2002.
+\newblock \href {https://doi.org/10.3115/1118693.1118704} {Thumbs up?: Sentiment classification using machine learning techniques}.
+\newblock In \emph{Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10}, pages 79--86. ACL.
+
+\bibitem[{Pang and Lee(2008)}]{pang2008sentiment}
+Bo~Pang and Lillian Lee. 2008.
+\newblock \href {https://doi.org/10.1561/1500000011} {Sentiment analysis and opinion mining}.
+\newblock \emph{Foundations and Trends in Information Retrieval}, 2(1--2):1--135.
+
+\bibitem[{Rish(2001)}]{rish2001empirical}
+I.~Rish. 2001.
+\newblock An empirical study of the naïve bayes classifier.
+\newblock In \emph{IJCAI 2001 Workshop on Empirical Methods in Artificial Intelligence}, page~3.
+
+\bibitem[{Schapire(1990)}]{schapire1990strength}
+R.~E. Schapire. 1990.
+\newblock \href {https://doi.org/10.1007/BF00116037} {The strength of weak learnability}.
+\newblock \emph{Machine Learning}, 5:197--227.
+
+\bibitem[{Zhang and Wallace(2015)}]{zhang2015sensitivity}
+Xiang Zhang and Brian~C. Wallace. 2015.
+\newblock \href {https://www.aclweb.org/anthology/D15-1020/} {A sensitivity analysis of (and practitioners’ guide to) convolutional neural networks for sentence classification}.
+\newblock In \emph{Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 253--263.
+
+\end{thebibliography}

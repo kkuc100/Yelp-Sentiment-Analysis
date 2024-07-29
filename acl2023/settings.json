@@ -1,0 +1,6 @@
+{
+    "latex-workshop.latex.rootFile.useSubFile": false,
+    "latex-workshop.latex.rootFile.filepath": "/Users/kevinkuc/Documents/Yelp-Sentiment-Analysis/acl2023/acl2023.tex",
+    "terminal.integrated.env.osx": {"PATH": "/Library/TeX/texbin:${env:PATH}"}
+    }
+  
