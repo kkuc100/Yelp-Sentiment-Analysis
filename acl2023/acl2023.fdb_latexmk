@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex acl2023"] 1722648107.14672 "acl2023.aux" "acl2023.bbl" "acl2023" 1722648327.88042 0
+["bibtex acl2023"] 1722652188.94555 "acl2023.aux" "acl2023.bbl" "acl2023" 1722652216.17883 0
   "./acl_natbib.bst" 1667466110 47709 d9d0ab22329e3318a3d1b2ae6abaab62 ""
   "./anthology.bib" 1667466112 43619593 189c3bca17cbb8f47b206984da5b72d1 ""
   "./custom.bib" 1722216886.72577 10066 a0e5c4b733c7e2468165b045f3cfeff4 ""
-  "acl2023.aux" 1722648327.47703 13300 685765a9ff330aee9b3250dc5b67f1e8 "pdflatex"
+  "acl2023.aux" 1722652215.70387 12585 5d53b928e0b4090e8f2e131616e26e76 "pdflatex"
   (generated)
   "acl2023.bbl"
   "acl2023.blg"
   (rewritten before read)
-["pdflatex"] 1722648326.52294 "/Users/kevinkuc/Documents/Yelp-Sentiment-Analysis/acl2023/acl2023.tex" "acl2023.pdf" "acl2023" 1722648327.88059 0
-  "/Users/kevinkuc/Documents/Yelp-Sentiment-Analysis/acl2023/acl2023.tex" 1722648326.25781 41136 7240dccf85b73eb963f4486738cf9929 ""
+["pdflatex"] 1722652214.57874 "/Users/kevinkuc/Documents/Yelp-Sentiment-Analysis/acl2023/acl2023.tex" "acl2023.pdf" "acl2023" 1722652216.17903 0
+  "/Users/kevinkuc/Documents/Yelp-Sentiment-Analysis/acl2023/acl2023.tex" 1722652214.33705 38451 110bc5317bd9586bbd6f15bdd4ad7205 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1558214095 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -131,10 +131,10 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1721859695 8221420 86314dfea232f0554f8a38726329fc8f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "ACL2023.sty" 1722563187.79141 11092 8b63d78a4b2511251a91d8a7a3bbdf09 ""
-  "acl2023.aux" 1722648327.47703 13300 685765a9ff330aee9b3250dc5b67f1e8 "pdflatex"
-  "acl2023.bbl" 1722648111.06612 6297 efc51cd75d977a7e2cd024a4c3c0bdbe "bibtex acl2023"
-  "acl2023.out" 1722648326.97933 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "acl2023.tex" 1722648326.25781 41136 7240dccf85b73eb963f4486738cf9929 ""
+  "acl2023.aux" 1722652215.70387 12585 5d53b928e0b4090e8f2e131616e26e76 "pdflatex"
+  "acl2023.bbl" 1722652193.52543 6297 efc51cd75d977a7e2cd024a4c3c0bdbe "bibtex acl2023"
+  "acl2023.out" 1722652215.13496 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "acl2023.tex" 1722652214.33705 38451 110bc5317bd9586bbd6f15bdd4ad7205 ""
   "bert_confusion_matrix.jpg" 1722443949.46374 47369 3d5ad8e2dcd69f68cb09c75f490bcc92 ""
   "ensemble_chart.jpg" 1722443807.56408 36817 5f2c9592f4fdb5aa8b23122cf1fc02ef ""
   "ensemble_confusion_matrix.jpg" 1722443821.45079 101230 d343c26197ebbebbe4f0a3291724acc7 ""
